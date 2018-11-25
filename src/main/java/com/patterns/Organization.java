@@ -1,3 +1,5 @@
+package com.patterns;
+
 public class Organization {
     private int id;
     private String name;

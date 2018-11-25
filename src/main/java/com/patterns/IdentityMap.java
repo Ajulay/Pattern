@@ -1,3 +1,5 @@
+package com.patterns;
+
 import java.util.HashMap;
 import java.util.Map;
 

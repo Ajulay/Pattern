@@ -1,3 +1,8 @@
+package com.patterns;
+
+import com.patterns.IdentityMap;
+import com.patterns.Organization;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
